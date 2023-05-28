@@ -1,0 +1,3 @@
+# Social-Network-Analytics-Community-Detection
+
+In Social Network Analysis (SNA), community structure is an important feature of complex network. There are many researches on detecting community or cluster in graph with the objective to understand functional properties and community structures. Community detection early researches require global knowledge of network, which is not realistic to most real world network. Due to the increase of online social network, the new challenges are to develop methods to support community detection based on local information-only and network modularity. This paper present state of the art of methods in community detection research and propose the direction of future community detection research.
